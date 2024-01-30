@@ -15,6 +15,6 @@ Required Questions that my Dashboard should answer:
 * What are the most grossing genres in the past 3 years?
 * What are the overall rating, positive, and negative reviews of all games on Steam?
 
-
-Details
+Dashboard Details
 =======
+![Untitled](https://github.com/AMBlaxe/Steam-Dashboard/assets/82550239/229e9b29-fa81-4e31-af4e-f452d4809ddc)
