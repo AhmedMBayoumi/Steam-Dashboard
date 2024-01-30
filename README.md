@@ -22,5 +22,11 @@ Dashboard Details
 **First Chart**: Clustered Bar Chart  
 Questions that this chart will answer:
 * What are the most popular games of all time on Steam?
+
 ![Untitled](https://github.com/AMBlaxe/Steam-Dashboard/assets/82550239/ef7ebfe7-d528-4713-b144-6517e2bb263f)
 
+**Second Chart**: Solid Gauge  
+Questions that this chart will answer: 
+* What are the most popular genres of all time on Steam?
+
+![Untitled](https://github.com/AMBlaxe/Steam-Dashboard/assets/82550239/f0b84f56-2e98-46c8-8878-e22ea2ce2b10)
